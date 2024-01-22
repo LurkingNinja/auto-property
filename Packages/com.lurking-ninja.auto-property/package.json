@@ -1,0 +1,16 @@
+{
+  "name": "com.lurking-ninja.auto-property",
+  "description": "Creates a property and change-events for fields decorated with the [AutoProperty] attribute.",
+  "displayName": "Autoproperty",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/LurkingNinja/com.lurking-ninja.auto-property",
+  "changelogUrl": "https://github.com/LurkingNinja/com.lurking-ninja.auto-property/blob/main/CHANGELOG.md",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/LurkingNinja/com.lurking-ninja.auto-property/blob/main/LICENSE",
+  "author": {
+    "name": "Lurking Ninja",
+    "email": "dev@lurking-ninja.com",
+    "url": "https://lurking-ninja.com/"
+  }
+}
