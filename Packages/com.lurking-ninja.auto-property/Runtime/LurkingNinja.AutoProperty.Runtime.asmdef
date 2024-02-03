@@ -1,5 +1,5 @@
 {
-    "name": "LurkingNinja.ProtoType.Runtime",
+    "name": "LurkingNinja.AutoProperty.Runtime",
     "rootNamespace": "LurkingNinja.AutoProperty",
     "references": [],
     "includePlatforms": [],
